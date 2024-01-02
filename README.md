@@ -8,6 +8,7 @@
   <li>Achievements,Hobbies & Contact details </li>
 </ul>
 <small>
-<h4>The code is written only with the help of Html only </h4>
+<h4>The code is written with the help of Html only so it looks quite simple <br />
+</h4>
 </small>
 
